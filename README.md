@@ -11,6 +11,10 @@
 - 演示如何做基本的自动化测试日志记录
 - 演示公开仓库前如何排除敏感数据
 
+## 核心技术文档
+
+- [Core Techniques for Authorized Form Automation Testing](docs/core-techniques.md)
+
 ## 不包含的内容
 
 - 不包含任何真实邮箱、密码或账号数据
