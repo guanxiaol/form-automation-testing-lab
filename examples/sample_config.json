@@ -1,0 +1,17 @@
+{
+  "target": "examples/demo_form.html",
+  "fields": {
+    "first_name": "Demo",
+    "last_name": "User",
+    "email": "demo.user@example.test",
+    "password": "ExamplePassword123!"
+  },
+  "selectors": {
+    "first_name": "#first-name",
+    "last_name": "#last-name",
+    "email": "#email",
+    "password": "#password",
+    "terms": "#terms",
+    "submit": "#submit"
+  }
+}

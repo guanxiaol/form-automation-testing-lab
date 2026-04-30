@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+.env.*
+
+# Runtime data and secrets
+accounts.txt
+accounts.json
+register_results.txt
+emails.txt
+logs/
+browser_profiles/
+*.log
+*.sqlite
+*.db
+*.cookie
+*.cookies
+
+# Local machine / IDE
+.DS_Store
+.idea/
+.vscode/
+*.plist
+
+# Playwright
+playwright-report/
+test-results/
